@@ -1,0 +1,11 @@
+venv/
+Exploratory/venv/
+WebScraping/venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+*.pyc
+*.dll
+*.log
+*.zip
+*.tar
