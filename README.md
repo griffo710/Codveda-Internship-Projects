@@ -56,6 +56,10 @@ preprocessing, and data analysis** using Python.
 
 ## **Task 3: Exploratory Data Analysis (EDA)**
 
+# 🚨 LIVE REPORT AVAILABLE 🚨
+
+**CHECK OUT THE  [EDA Report](https://griffo710.github.io/Codveda-Internship-Projects/EDA_report.html) HERE!**
+
 **Goal:** Understand patterns, distributions, and relationships in the
 data.
 
@@ -77,6 +81,9 @@ data.
 -   matplotlib
 -   seaborn
 -   Jupyter Notebook
+
+
+
 
 ------------------------------------------------------------------------
 
